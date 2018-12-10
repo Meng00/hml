@@ -1,0 +1,21 @@
+source 'https://github.com/CocoaPods/Specs.git'
+platform :ios, '9.0'
+target:"hml" do
+
+pod 'PGNetworkHelper', '~> 2.0.1'
+pod 'MJRefresh', '~> 3.1.15.7'
+pod 'JXPagingView/Pager', '~> 0.0.5'
+pod 'JXCategoryView', '~> 1.0.7'
+pod 'YYImage', '~> 1.0.4'
+pod 'Masonry', '~> 1.1.0'
+pod 'YYWebImage', '~> 1.0.5'
+pod 'YYModel', '~> 1.0.4'
+pod 'SVProgressHUD', '~> 2.2.5'
+
+pod 'mob_sharesdk', '~> 4.2.0'
+pod 'mob_sharesdk/ShareSDKUI', '~> 4.2.0'
+pod 'mob_sharesdk/ShareSDKPlatforms/WeChatFull', '~> 4.2.0'
+
+#pod 'WechatOpenSDK', '~> 1.8.3'
+
+end
